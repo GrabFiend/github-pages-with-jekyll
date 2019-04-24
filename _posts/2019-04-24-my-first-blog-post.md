@@ -1,5 +1,5 @@
 ---
-title: CardFight Vanguard: CardFight Heroes
+title: "CardFight Vanguard: CardFight Heroes"
 date: 2019-04-24
 ---
 
